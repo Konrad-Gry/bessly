@@ -38,5 +38,4 @@ Czysty HTML, CSS i JavaScript (jeden plik, bez serwera), skrypt aktualizujący w
 ## O projekcie
 Zbudowałem to z pomocą AI (Claude). Zakres modelu, źródła danych i założenia wybierałem i sprawdzałem sam, a aktualizację cen utrzymuję samodzielnie. Projekt powstał jako część mojej nauki branży OZE i magazynów energii.
 
-## Kontakt
-Uwagi i pytania: [dodaj tu link do swojego profilu LinkedIn].
+
